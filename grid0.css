@@ -1,4 +1,4 @@
-.sidebar {
+    .sidebar {
         grid-area: sidebar;
     }
 
@@ -9,7 +9,6 @@
     .header {
         grid-area: header;
     }
-
 
     .wrapper {
         display: grid;
